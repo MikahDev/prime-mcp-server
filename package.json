@@ -41,13 +41,13 @@
     "chatgpt",
     "claude"
   ],
-  "homepage": "https://github.com/YOUR_USERNAME/prime-mcp-server",
+  "homepage": "https://github.com/MikahDev/prime-mcp-server",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/prime-mcp-server.git"
+    "url": "https://github.com/MikahDev/prime-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/prime-mcp-server/issues"
+    "url": "https://github.com/MikahDev/prime-mcp-server/issues"
   },
   "author": "",
   "license": "MIT"

@@ -105,7 +105,7 @@ MCP (Model Context Protocol) server for the [Prime Ecosystem API](https://www.pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/prime-mcp-server.git
+git clone https://github.com/MikahDev/prime-mcp-server.git
 cd prime-mcp-server
 
 # Install dependencies
@@ -114,8 +114,6 @@ npm install
 # Build
 npm run build
 ```
-
-> **Note:** Replace `YOUR_USERNAME` with your GitHub username after forking.
 
 ## Configuration
 
